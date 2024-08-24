@@ -1,0 +1,40 @@
+body{
+    background-color: hsl(216, 15%, 48%);
+    height: 100vh;
+}
+
+#p1{
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-align: center;
+    font-weight: 700;
+    font-size: 36px;
+}
+
+#p2{
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing:auto;
+    font-style: normal;
+    text-align: center;
+    font-weight: 400;
+    font-size: 25px;
+    color:hsl(218, 44%, 22%);
+}
+
+#main-div{
+    background-color: white;
+    border-radius: 2rem;
+    border: 50%;
+    width: 450px;
+}
+
+div {
+    margin: auto;
+    padding: 13px;
+}
+
+img{
+    width: 100%;
+    border-radius: 2rem;
+}
